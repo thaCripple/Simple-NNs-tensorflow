@@ -1,2 +1,2 @@
 # Simple-NNs
-Self study of simple Artificial Neural Networks
+This Repository contains Google Colab Notebooks with my study and implementations of simple Artificial Neural Networks
